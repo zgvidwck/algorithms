@@ -4,6 +4,6 @@
 
 int main()
 {
-	printf("Hello, github.\n");
+	printf("simple test.\n");
 	return 0;
 }
