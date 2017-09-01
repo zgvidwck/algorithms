@@ -1,9 +1,9 @@
-// simple test.
+// Simple test.
 
 #inlucde <stdio.h>
 
 int main()
 {
-	printf("simple test.\n");
+	printf("Simple test.\n");
 	return 0;
 }
